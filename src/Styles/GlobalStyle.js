@@ -14,6 +14,10 @@ ${reset}
     font-family: "Lato", "Noto Sans KR", sans-serif, Malgungothic, "맑은고딕",
       Dotum, "돋움";
   }
+
+  body {
+    background-color: rgb(247, 247, 247);
+  }
   
   button {
     all: unset;
